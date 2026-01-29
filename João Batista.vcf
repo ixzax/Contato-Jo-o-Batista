@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:João Batista
+N:Batista;João;;;
+item1.EMAIL;TYPE=INTERNET:joao@thermon.ind.br
+item1.X-ABLabel:Trabalho
+TEL;TYPE=CELL:3199311-1308
+ORG:Thermon Indústria Mecânica
+TITLE:Diretor
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzHNDaph9vbO7fALv_sg8P
+ r8kidV8G79Cbxx2TKpoGPdtcq-Uh54
+CATEGORIES:myContacts
+END:VCARD
